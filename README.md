@@ -25,3 +25,6 @@
 
 ### Módulo 07 - Árvores I
 []()
+
+### Módulo 08 - Git : GitHub - Controle de versionamento
+[]()
