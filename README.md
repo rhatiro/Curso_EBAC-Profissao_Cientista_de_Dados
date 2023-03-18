@@ -21,3 +21,5 @@
 ### [Módulo 08 - Git : GitHub - Controle de versionamento](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2008%20-%20Git%20:%20GitHub%20-%20Controle%20de%20versionamento)
 
 ### [Módulo 09 - TdD III - Agregações e operações em grupos](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2009%20-%20TdD%20III%20-%20Agregac%CC%A7o%CC%83es%20e%20operac%CC%A7o%CC%83es%20em%20grupos)
+
+### [Módulo 10 - Descritiva II - Análise descritiva para resposta contínua](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2010%20-%20Descritiva%20II%20-%20Ana%CC%81lise%20descritiva%20para%20resposta%20conti%CC%81nua)
