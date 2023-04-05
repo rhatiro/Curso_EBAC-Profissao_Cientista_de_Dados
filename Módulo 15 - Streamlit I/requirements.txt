@@ -1,7 +1,5 @@
-streamlit
 numpy
 pandas
-time
 matplotlib
 altair
 plotly
