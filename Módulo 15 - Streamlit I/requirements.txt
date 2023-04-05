@@ -5,5 +5,5 @@ matplotlib
 altair
 plotly
 scipy
-bokeh
+bokeh==2.4.3
 pydeck
