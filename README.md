@@ -27,3 +27,9 @@
 ### [Módulo 11 - Árvores II (Parte I: árvore de regressão)](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2011%20-%20A%CC%81rvores%20II%20(Parte%20I-%20a%CC%81rvore%20de%20regressa%CC%83o))
 
 ### [Módulo 12 - Regressão I](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2012%20-%20Regressa%CC%83o%20I)
+
+### [Módulo 13 - Regressão II](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/M%C3%B3dulo%2013%20-%20Regress%C3%A3o%20II)
+
+### [Módulo 14 - Scripting](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2014%20-%20Scripting)
+
+### [Módulo 15 - Streamlit I](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo_15_-_Streamlit_I)
