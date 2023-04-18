@@ -1,0 +1,3 @@
+streamlit-pandas-profiling
+ydata-profiling
+scikit-learn
