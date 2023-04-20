@@ -33,3 +33,16 @@
 ### [Módulo 14 - Scripting](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2014%20-%20Scripting)
 
 ### [Módulo 15 - Streamlit I](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo_15_-_Streamlit_I)
+
+### [Módulo 16 - TdD IV - Pandas avançado](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2016%20-%20TdD%20IV%20-%20Pandas%20avanc%CC%A7ado)
+
+### [Módulo 17 - Árvores II (Parte II: árvore de classificação)](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2017%20-%20A%CC%81rvores%20II%20(Parte%20II-%20a%CC%81rvore%20de%20classificac%CC%A7a%CC%83o))
+
+---
+
+### [Bibliografia complementar](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/refs)
+
+- #### [Módulo 17]()
+> - [Documentação do scikitlearn](https://scikit-learn.org/stable/modules/cross_validation.html)
+> - ["The Elements of Statistical Learning" J. H. Friedman, R. Tibshirani e . Hastle](https://hastie.su.domains/Papers/ESLII.pdf)
+> - ["An Introduction to Statistical Learning" Gareth M. James, Daniela Witten, Trevor Hastie, R J Tibshirani](https://www.statlearning.com/)
