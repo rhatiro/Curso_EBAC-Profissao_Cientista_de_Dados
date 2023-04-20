@@ -40,9 +40,9 @@
 
 ---
 
-### [Bibliografia complementar](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/refs)
+### [Bibliografia complementar:](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/refs)
 
-- #### [Módulo 17]()
+- #### [Módulo 17](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2017%20-%20A%CC%81rvores%20II%20(Parte%20II-%20a%CC%81rvore%20de%20classificac%CC%A7a%CC%83o))
 > - [Documentação do scikitlearn](https://scikit-learn.org/stable/modules/cross_validation.html)
 > - ["The Elements of Statistical Learning" J. H. Friedman, R. Tibshirani e . Hastle](https://hastie.su.domains/Papers/ESLII.pdf)
 > - ["An Introduction to Statistical Learning" Gareth M. James, Daniela Witten, Trevor Hastie, R J Tibshirani](https://www.statlearning.com/)
