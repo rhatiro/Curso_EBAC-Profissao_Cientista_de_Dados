@@ -49,8 +49,9 @@
 
 ### [**Projeto #01** | Credit-score](https://github.com/rhatiro/Credit-score)
 > [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&logo=Jupyter&logoColor=white)](https://github.com/rhatiro/Credit-score/blob/main/Projeto%2001%20-%20Classificacao%20de%20credito%20-%20Roberto%20Hatiro.ipynb)
+
 ### [**Projeto #02** | Previsão de renda](https://github.com/rhatiro/previsao-renda)
-> [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&logo=Jupyter&logoColor=white)](https://github.com/rhatiro/Credit-score/blob/main/Projeto%2001%20-%20Classificacao%20de%20credito%20-%20Roberto%20Hatiro.ipynb)
+> [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&logo=Jupyter&logoColor=white)](https://github.com/rhatiro/previsao-renda/blob/main/ebac-projeto02-previsao_renda-roberto_hatiro.ipynb)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=Streamlit&logoColor=white)](https://rhatiro-ebac-projeto02-previsao-renda.streamlit.app/)
 
 </details>
