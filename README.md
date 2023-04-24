@@ -41,6 +41,20 @@
 
 - [x] [Módulo 17 - Árvores II (Parte II: árvore de classificação)](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2017%20-%20A%CC%81rvores%20II%20(Parte%20II-%20a%CC%81rvore%20de%20classificac%CC%A7a%CC%83o))
 
+
+<details open>
+  <summary>
+    <h2>Projetos</h2>
+  </summary>
+
+### [**Projeto #01** | Credit-score](https://github.com/rhatiro/Credit-score)
+> [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&logo=Jupyter&logoColor=white)](https://github.com/rhatiro/Credit-score/blob/main/Projeto%2001%20-%20Classificacao%20de%20credito%20-%20Roberto%20Hatiro.ipynb)
+### [**Projeto #02** | Previsão de renda](https://github.com/rhatiro/previsao-renda)
+> [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&logo=Jupyter&logoColor=white)](https://github.com/rhatiro/Credit-score/blob/main/Projeto%2001%20-%20Classificacao%20de%20credito%20-%20Roberto%20Hatiro.ipynb)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=Streamlit&logoColor=white)](https://rhatiro-ebac-projeto02-previsao-renda.streamlit.app/)
+
+</details>
+
 ---
 
 <details>
