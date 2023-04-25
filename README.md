@@ -41,6 +41,8 @@
 
 - [x] [Módulo 17 - Árvores II (Parte II: árvore de classificação)](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2017%20-%20A%CC%81rvores%20II%20(Parte%20II-%20a%CC%81rvore%20de%20classificac%CC%A7a%CC%83o))
 
+- [ ] [Módulo 18 - Regressão Logística I](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2018%20-%20Regressa%CC%83o%20Logi%CC%81stica%20I)
+
 
 <details open>
   <summary>
