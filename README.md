@@ -31,7 +31,7 @@
 
 - [x] [Módulo 12 - Regressão I](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2012%20-%20Regressa%CC%83o%20I)
 
-- [x] [Módulo 13 - Regressão II](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/M%C3%B3dulo%2013%20-%20Regress%C3%A3o%20II)
+- [x] [Módulo 13 - Regressão II](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2013%20-%20Regressa%CC%83o%20II)
 
 - [x] [Módulo 14 - Scripting](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2014%20-%20Scripting)
 
