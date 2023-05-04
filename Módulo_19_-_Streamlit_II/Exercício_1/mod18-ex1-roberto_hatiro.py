@@ -165,7 +165,7 @@ def main():
                 data=bank_raw_target_pct,
                 ax=axes[0])
     axes[0].bar_label(container=axes[0].containers[0])
-    axes[0].set_title(label='Dados filtrados', fontweight='bold')
+    axes[0].set_title(label='Dados brutos', fontweight='bold')
     # Coluna 2
     bank_target_pct = bank['y'].value_counts(normalize=True).to_frame() * 100
     bank_target_pct = bank_target_pct.sort_index()
