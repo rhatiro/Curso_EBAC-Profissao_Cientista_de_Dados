@@ -31,13 +31,13 @@ def multiselect_filter(data: pd.DataFrame,
 def main():
     st.set_page_config(
         page_title="EBAC | Módulo 19 | Streamlit II | Exercício 1",
-        page_icon="https://raw.githubusercontent.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/main/Mo%CC%81dulo_19_-_Streamlit_II/Exerci%CC%81cio_1/img/telmarketing_icon.png",
+        page_icon="img/telmarketing_icon.png",
         layout="wide",
         initial_sidebar_state="expanded",
     )
 
     # SIDEBAR
-    image = Image.open(fp='Módulo_19_-_Streamlit_II/Exercício_1/img/Bank-Branding.jpg')
+    image = Image.open(fp='Módulo_19_-_Streamlit_II/Exercício_1/img/Bank-Branding.jpg')
     st.sidebar.image(image=image)
 
     # TÍTULO
@@ -65,7 +65,7 @@ def main():
     start = timeit.default_timer()
 
     bank_raw = load_data(
-        file_data='https://raw.githubusercontent.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/main/Mo%CC%81dulo_19_-_Streamlit_II/Exerci%CC%81cio_1/data/input/bank-additional-full.csv', sep=';')
+        file_data='data/input/bank-additional-full.csv', sep=';')
     bank = bank_raw.copy()
 
     st.write('Time:', timeit.default_timer() - start)
