@@ -62,6 +62,8 @@
 
 - [ ] [Módulo 19 - Streamlit II](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo_19_-_Streamlit_II)
 
+- [x] [Módulo 20 - Markdown / Terminal](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2020%20-%20Markdown%20%3A%20Terminal)
+
 
 <details open>
   <summary>
