@@ -79,8 +79,9 @@
 
 - [x] [Módulo 20 - Markdown / Terminal](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2020%20-%20Markdown%20%3A%20Terminal)
   
-- [ ] [Módulo 21 - TdD V - SQL](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2021%20-%20TdD%20V%20-%20SQL)
+- [x] [Módulo 21 - TdD V - SQL](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2021%20-%20TdD%20V%20-%20SQL)
 
+- [ ] [Módulo 22 - Descritiva III - Gráficos interativos]()
 
 <details open>
   <summary>
