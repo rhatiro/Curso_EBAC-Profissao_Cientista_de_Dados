@@ -75,9 +75,11 @@
 
 - [x] [Módulo 18 - Regressão Logística I](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2018%20-%20Regressa%CC%83o%20Logi%CC%81stica%20I)
 
-- [ ] [Módulo 19 - Streamlit II](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo_19_-_Streamlit_II)
+- [x] [Módulo 19 - Streamlit II](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo_19_-_Streamlit_II)
 
 - [x] [Módulo 20 - Markdown / Terminal](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2020%20-%20Markdown%20%3A%20Terminal)
+  
+- [ ] [Módulo 21 - TdD V - SQL](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2021%20-%20TdD%20V%20-%20SQL)
 
 
 <details open>
