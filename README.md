@@ -81,7 +81,7 @@
   
 - [x] [Módulo 21 - TdD V - SQL](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2021%20-%20TdD%20V%20-%20SQL)
 
-- [ ] [Módulo 22 - Descritiva III - Gráficos interativos]()
+- [ ] [Módulo 22 - Descritiva III - Gráficos interativos](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2022%20-%20Descritiva%20III%20-%20Gra%CC%81ficos%20interativos)
 
 <details open>
   <summary>
@@ -109,6 +109,11 @@
   - [Documentação do scikitlearn](https://scikit-learn.org/stable/modules/cross_validation.html)
   - ["The Elements of Statistical Learning" J. H. Friedman, R. Tibshirani e . Hastle](https://hastie.su.domains/Papers/ESLII.pdf)
   - ["An Introduction to Statistical Learning" Gareth M. James, Daniela Witten, Trevor Hastie, R J Tibshirani](https://www.statlearning.com/)
+  
+- #### [Módulo 22:](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2022%20-%20Descritiva%20III%20-%20Gra%CC%81ficos%20interativos)
+  
+  - ["Python para análise de dados" Wes McKinney, ed. Oreilly, 2019 - Capítulo 6](https://novatec.com.br/livros/python-para-analise-de-dados-3ed/)
+  - ["Storytelling com Dados" Cole Nussbaumer Knaflic, Alta books, 2019](https://altabooks.com.br/produto/storytelling-com-dados/)
 
 </details>
 
