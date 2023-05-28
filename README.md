@@ -81,7 +81,9 @@
   
 - [x] [Módulo 21 - TdD V - SQL](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2021%20-%20TdD%20V%20-%20SQL)
 
-- [ ] [Módulo 22 - Descritiva III - Gráficos interativos](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2022%20-%20Descritiva%20III%20-%20Gra%CC%81ficos%20interativos)
+- [x] [Módulo 22 - Descritiva III - Gráficos interativos](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2022%20-%20Descritiva%20III%20-%20Gra%CC%81ficos%20interativos)
+  
+- [ ] [Módulo 23 - Combinação de modelos I]()
 
 <details open>
   <summary>
