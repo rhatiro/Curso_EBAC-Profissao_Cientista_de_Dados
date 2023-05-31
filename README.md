@@ -83,7 +83,7 @@
 
 - [x] [Módulo 22 - Descritiva III - Gráficos interativos](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2022%20-%20Descritiva%20III%20-%20Gra%CC%81ficos%20interativos)
   
-- [ ] [Módulo 23 - Combinação de modelos I]()
+- [ ] [Módulo 23 - Combinação de modelos I](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2023%20-%20Combinac%CC%A7a%CC%83o%20de%20modelos%20I)
 
 <details open>
   <summary>
@@ -116,6 +116,10 @@
   
   - ["Python para análise de dados" Wes McKinney, ed. Oreilly, 2019 - Capítulo 6](https://novatec.com.br/livros/python-para-analise-de-dados-3ed/)
   - ["Storytelling com Dados" Cole Nussbaumer Knaflic, Alta books, 2019](https://altabooks.com.br/produto/storytelling-com-dados/)
+  
+- #### [Módulo 23:](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2023%20-%20Combinac%CC%A7a%CC%83o%20de%20modelos%20I)
+  
+  - [Random forests - classification description](https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm)
 
 </details>
 
