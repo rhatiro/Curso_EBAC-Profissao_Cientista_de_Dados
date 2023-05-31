@@ -120,6 +120,7 @@
 - #### [Módulo 23:](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2023%20-%20Combinac%CC%A7a%CC%83o%20de%20modelos%20I)
   
   - [Random forests - classification description](https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm)
+  - [sklearn.ensemble.RandomForestClassifier — scikit-learn 1.2.2 documentation](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
 
 </details>
 
