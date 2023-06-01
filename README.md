@@ -137,7 +137,8 @@
   - 1997:
     > - [Adaboost](https://www.sciencedirect.com/science/article/pii/S002200009791504X)
   - 1999:
-    > - [Stochastic GBM GBM](https://jerryfriedman.su.domains/ftp/stobst.pdf)
+    > - [Stochastic GBM](https://jerryfriedman.su.domains/ftp/stobst.pdf)
+    > - [GBM](https://jerryfriedman.su.domains/ftp/trebst.pdf)
   - 2001:
     > - [Random Forest](https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf)
   - 2014 - 2016:
