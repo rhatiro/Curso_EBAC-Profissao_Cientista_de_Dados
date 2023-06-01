@@ -147,6 +147,7 @@
     > - [LightGBM](https://papers.nips.cc/paper/2017/hash/6449f44a102fde848669bdd9eb6b76fa-Abstract.html)
     > - [CatBoost](https://arxiv.org/abs/1706.09516)
   
+  - [A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S002200009791504X)
   - [1.11. Ensemble methods — scikit-learn 1.2.2 documentation](https://scikit-learn.org/stable/modules/ensemble.html)
 
 </details>
