@@ -83,7 +83,9 @@
 
 - [x] [Módulo 22 - Descritiva III - Gráficos interativos](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2022%20-%20Descritiva%20III%20-%20Gra%CC%81ficos%20interativos)
   
-- [ ] [Módulo 23 - Combinação de modelos I](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2023%20-%20Combinac%CC%A7a%CC%83o%20de%20modelos%20I)
+- [x] [Módulo 23 - Combinação de modelos I](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2023%20-%20Combinac%CC%A7a%CC%83o%20de%20modelos%20I)
+  
+- [ ] [Módulo 24 - Combinação de modelos II]()
 
 <details open>
   <summary>
@@ -121,6 +123,28 @@
   
   - [Random forests - classification description](https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm)
   - [sklearn.ensemble.RandomForestClassifier — scikit-learn 1.2.2 documentation](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
+  
+- #### [Módulo 24:]()
+  
+  - 1984:
+    > - [CART](https://www.google.com/search?q=Classification+And+Regression+Trees+By+Leo+Breiman,+Jerome+H.+Friedman,+Richard+A.+Olshen,+Charles+J.+Stone&sxsrf=APq-WBsB-F7EMQLKLS-MDIV1-aQJOT_NXQ:1644165838636&ei=zvr_Yf6CJuKSxc8PlOiR-Ac&ved=0ahUKEwj-oY2Gw-v1AhViS)
+  - 1990 - 1995:
+    > - [Boosting 1](https://link.springer.com/article/10.1007/BF00116037)
+    > - [Boosting 2](https://www.sciencedirect.com/science/article/pii/S0890540185711364)
+    > - [Boosting 3](https://www.researchgate.net/publication/2798688_Data_Filtering_and_Distribution_Modeling_Algorithms_for_Machine_Learning)
+  - 1996:
+    > - [Bagging](https://link.springer.com/content/pdf/10.1007/BF00058655.pdf)
+  - 1997:
+    > - [Adaboost](https://www.sciencedirect.com/science/article/pii/S002200009791504X)
+  - 1999:
+    > - [Stochastic GBM GBM](https://jerryfriedman.su.domains/ftp/stobst.pdf)
+  - 2001:
+    > - [Random Forest](https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf)
+  - 2014 - 2016:
+    > - [XGBoost](https://arxiv.org/pdf/1603.02754.pdf)
+  - 2017:
+    > - [LightGBM](https://papers.nips.cc/paper/2017/hash/6449f44a102fde848669bdd9eb6b76fa-Abstract.html)
+    > - [CatBoost](https://arxiv.org/abs/1706.09516)
 
 </details>
 
