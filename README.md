@@ -142,7 +142,7 @@
   - 2001:
     > - [Random Forest](https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf)
   - 2014 - 2016:
-    > - [XGBoost](https://arxiv.org/pdf/1603.02754.pdf)
+    > - [**XGBoost**](https://arxiv.org/pdf/1603.02754.pdf)
   - 2017:
     > - [LightGBM](https://papers.nips.cc/paper/2017/hash/6449f44a102fde848669bdd9eb6b76fa-Abstract.html)
     > - [CatBoost](https://arxiv.org/abs/1706.09516)
