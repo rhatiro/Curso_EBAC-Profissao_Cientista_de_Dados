@@ -85,7 +85,7 @@
   
 - [x] [Módulo 23 - Combinação de modelos I](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2023%20-%20Combinac%CC%A7a%CC%83o%20de%20modelos%20I)
   
-- [ ] [Módulo 24 - Combinação de modelos II]()
+- [ ] [Módulo 24 - Combinação de modelos II](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2024%20-%20Combinac%CC%A7a%CC%83o%20de%20modelos%20II)
 
 <details open>
   <summary>
@@ -148,6 +148,7 @@
     > - [CatBoost](https://arxiv.org/abs/1706.09516)
   - [A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S002200009791504X)
   - [1.11. Ensemble methods — scikit-learn 1.2.2 documentation](https://scikit-learn.org/stable/modules/ensemble.html)
+  - [sklearn.ensemble.GradientBoostingClassifier — scikit-learn 1.2.2 documentation](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html)
 
 </details>
 
