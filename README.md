@@ -140,6 +140,7 @@
       >> - [Boosting 3](https://www.researchgate.net/publication/2798688_Data_Filtering_and_Distribution_Modeling_Algorithms_for_Machine_Learning)
     > - 1997:
       >> - [Adaboost](https://www.sciencedirect.com/science/article/pii/S002200009791504X)
+       >>> - [Additive logistic regression: a statistical view of boosting (With discussion and a rejoinder by the authors)](https://projecteuclid.org/journals/annals-of-statistics/volume-28/issue-2/Additive-logistic-regression--a-statistical-view-of-boosting-With/10.1214/aos/1016218223.full)
     > - 1999:
       >> - [GBM](https://jerryfriedman.su.domains/ftp/trebst.pdf)
       >> - [Stochastic GBM](https://jerryfriedman.su.domains/ftp/stobst.pdf)
