@@ -152,6 +152,7 @@
   - [A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S002200009791504X)
   - [1.11. Ensemble methods — scikit-learn 1.2.2 documentation](https://scikit-learn.org/stable/modules/ensemble.html)
   - [sklearn.ensemble.GradientBoostingClassifier — scikit-learn 1.2.2 documentation](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html)
+  - [XGBoost Documentation — xgboost 1.7.5 documentation](https://xgboost.readthedocs.io/en/stable/)
 
 </details>
 
