@@ -126,7 +126,9 @@
   - [Random forests - classification description](https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm)
   - [sklearn.ensemble.RandomForestClassifier — scikit-learn 1.2.2 documentation](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
   
-- #### [Módulo 24:]()
+- #### [Módulo 24:](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2024%20-%20Combinac%CC%A7a%CC%83o%20de%20modelos%20II)
+
+  <details><summary>Timeline</summary>
   
   - 1984:
     > - [CART](https://www.google.com/search?q=Classification+And+Regression+Trees+By+Leo+Breiman,+Jerome+H.+Friedman,+Richard+A.+Olshen,+Charles+J.+Stone&sxsrf=APq-WBsB-F7EMQLKLS-MDIV1-aQJOT_NXQ:1644165838636&ei=zvr_Yf6CJuKSxc8PlOiR-Ac&ved=0ahUKEwj-oY2Gw-v1AhViS)
@@ -151,10 +153,28 @@
     > - 2017:
       >> - [LightGBM](https://papers.nips.cc/paper/2017/hash/6449f44a102fde848669bdd9eb6b76fa-Abstract.html)
       >> - [CatBoost](https://arxiv.org/abs/1706.09516)
+
+  </details>
+  
   - [A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S002200009791504X)
   - [1.11. Ensemble methods — scikit-learn 1.2.2 documentation](https://scikit-learn.org/stable/modules/ensemble.html)
   - [sklearn.ensemble.GradientBoostingClassifier — scikit-learn 1.2.2 documentation](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html)
   - [XGBoost Documentation — xgboost 1.7.5 documentation](https://xgboost.readthedocs.io/en/stable/)
+
+- #### [Módulo 25:](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2025%20-%20Ca%CC%81lculo)
+
+  <details><summary>Referências</summary>
+    
+  - [Construindo gráficos 3d com matplotlib](https://www.youtube.com/watch?v=gqoLLGgbeAE)
+  - [Construindo animações com o matplotlib](https://www.youtube.com/watch?v=7RgoHTMbp4A)
+  - [3blue1brown - "a essência do cálculo"](https://www.youtube.com/watch?v=WUvTyaaNkzM)
+  - [Artigo sobre derivada da Wikipedia](https://en.wikipedia.org/wiki/Derivative)
+  - [Artigo sobre integral da Wikipedia](https://en.wikipedia.org/wiki/Integral)
+  - Livros sobre cálculo:
+    - [Melhores Livros de Cálculo para Universitários](https://book360.com.br/melhores-livros-de-calculo-para-universitarios/)
+    - ["Um Curso de Cálculo - Vol. 1: Volume 1" por  Hamilton Luiz GUIDORIZZI](https://www.amazon.com.br/Curso-C%C3%A1lculo-Hamilton-Luiz-Guidorizzi/dp/8521635435)
+  
+  </details>
 
 </details>
 
