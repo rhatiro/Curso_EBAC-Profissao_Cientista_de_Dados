@@ -85,7 +85,9 @@
   
 - [x] [Módulo 23 - Combinação de modelos I](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2023%20-%20Combinac%CC%A7a%CC%83o%20de%20modelos%20I)
   
-- [ ] [Módulo 24 - Combinação de modelos II](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2024%20-%20Combinac%CC%A7a%CC%83o%20de%20modelos%20II)
+- [x] [Módulo 24 - Combinação de modelos II](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2024%20-%20Combinac%CC%A7a%CC%83o%20de%20modelos%20II)
+
+- [ ] [Módulo 25 - Cálculo](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2025%20-%20Ca%CC%81lculo)
 
 <details open>
   <summary>
