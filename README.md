@@ -87,7 +87,9 @@
   
 - [x] [Módulo 24 - Combinação de modelos II](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2024%20-%20Combinac%CC%A7a%CC%83o%20de%20modelos%20II)
 
-- [ ] [Módulo 25 - Cálculo](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2025%20-%20Ca%CC%81lculo)
+- [x] [Módulo 25 - Cálculo](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2025%20-%20Ca%CC%81lculo)
+
+- [ ] [Módulo 26 - Algelin]()
 
 <details open>
   <summary>
@@ -175,6 +177,11 @@
     - ["Um Curso de Cálculo - Vol. 1: Volume 1" por  Hamilton Luiz GUIDORIZZI](https://www.amazon.com.br/Curso-C%C3%A1lculo-Hamilton-Luiz-Guidorizzi/dp/8521635435)
   
   </details>
+
+- #### [Módulo 26:]()
+
+  - [Playlist sobre álgebra linear do 3blue1brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+  - [Livros sobre álgebra linear](https://math.stackexchange.com/questions/2377980/book-recommendations-for-linear-algebra)
 
 </details>
 
