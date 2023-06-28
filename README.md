@@ -89,7 +89,9 @@
 
 - [x] [Módulo 25 - Cálculo](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2025%20-%20Ca%CC%81lculo)
 
-- [ ] [Módulo 26 - Algelin]()
+- [x] [Módulo 26 - Algelin](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2026%20-%20Algelin)
+
+- [ ] [Módulo 27 - PCA](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2027%20-%20PCA)
 
 <details open>
   <summary>
