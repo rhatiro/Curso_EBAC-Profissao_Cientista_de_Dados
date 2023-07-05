@@ -13,7 +13,7 @@ sns.set_theme(style="ticks", rc=custom_params)
 
 
 # Função para ler os dados
-@st.cache(show_spinner= True, allow_output_mutation=True)
+@st.cache_data
 def load_data(file_data):
     try:
         return pd.read_csv(file_data, sep=';')
@@ -21,7 +21,7 @@ def load_data(file_data):
         return pd.read_excel(file_data)
 
 # Função para filtrar baseado na multiseleção de categorias
-@st.cache(allow_output_mutation=True)
+@st.cache_data
 def multiselect_filter(relatorio, col, selecionados):
     if 'all' in selecionados:
         return relatorio
@@ -29,12 +29,12 @@ def multiselect_filter(relatorio, col, selecionados):
         return relatorio[relatorio[col].isin(selecionados)].reset_index(drop=True)
 
 # Função para converter o df para csv
-@st.cache
+@st.cache_data
 def convert_df(df):
     return df.to_csv(index=False).encode('utf-8')
 
 # Função para converter o df para excel
-@st.cache
+@st.cache_data
 def to_excel(df):
     output = BytesIO()
     writer = pd.ExcelWriter(output, engine='xlsxwriter')
