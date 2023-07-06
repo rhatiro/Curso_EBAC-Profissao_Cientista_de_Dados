@@ -1,7 +1,5 @@
 import numpy as np
 
-from pandas._typing import npt
-
 def calculate_variable_window_bounds(
     num_values: int,  # int64_t
     window_size: int,  # int64_t
@@ -9,4 +7,4 @@ def calculate_variable_window_bounds(
     center: bool,
     closed: str | None,
     index: np.ndarray,  # const int64_t[:]
-) -> tuple[npt.NDArray[np.int64], npt.NDArray[np.int64]]: ...
+) -> tuple[np.ndarray, np.ndarray,]: ...  # np.ndarray[np.int64]  # np.ndarray[np.int64]

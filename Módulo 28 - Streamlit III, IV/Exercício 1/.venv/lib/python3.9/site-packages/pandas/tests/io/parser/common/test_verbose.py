@@ -4,10 +4,6 @@ specific classification into the other test modules.
 """
 from io import StringIO
 
-import pytest
-
-pytestmark = pytest.mark.usefixtures("pyarrow_skip")
-
 
 def test_verbose_read(all_parsers, capsys):
     parser = all_parsers

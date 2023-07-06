@@ -41,12 +41,11 @@ class TestVectorizedTimedelta:
         )
         tm.assert_series_equal(ser.dt.total_seconds(), s_expt)
 
-    def test_tdi_total_seconds_all_nat(self):
         # with both nat
         ser = Series([np.nan, np.nan], dtype="timedelta64[ns]")
-        result = ser.dt.total_seconds()
-        expected = Series([np.nan, np.nan])
-        tm.assert_series_equal(result, expected)
+        tm.assert_series_equal(
+            ser.dt.total_seconds(), Series([np.nan, np.nan], index=[0, 1])
+        )
 
     def test_tdi_round(self):
         td = timedelta_range(start="16801 days", periods=5, freq="30Min")
@@ -103,7 +102,7 @@ class TestVectorizedTimedelta:
         t1c = TimedeltaIndex([1, 1, 1], unit="D")
 
         # note that negative times round DOWN! so don't give whole numbers
-        for freq, s1, s2 in [
+        for (freq, s1, s2) in [
             ("N", t1, t2),
             ("U", t1, t2),
             (
@@ -124,6 +123,7 @@ class TestVectorizedTimedelta:
             ("H", t1c, TimedeltaIndex(["-1 days", "-1 days", "-1 days"])),
             ("d", t1c, TimedeltaIndex([-1, -1, -1], unit="D")),
         ]:
+
             r1 = t1.round(freq)
             tm.assert_index_equal(r1, s1)
             r2 = t2.round(freq)

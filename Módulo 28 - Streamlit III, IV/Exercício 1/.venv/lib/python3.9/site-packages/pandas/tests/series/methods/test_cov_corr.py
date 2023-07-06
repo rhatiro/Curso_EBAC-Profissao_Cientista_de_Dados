@@ -58,7 +58,7 @@ class TestSeriesCov:
 class TestSeriesCorr:
     @td.skip_if_no_scipy
     def test_corr(self, datetime_series):
-        from scipy import stats
+        import scipy.stats as stats
 
         # full overlap
         tm.assert_almost_equal(datetime_series.corr(datetime_series), 1)
@@ -88,7 +88,7 @@ class TestSeriesCorr:
 
     @td.skip_if_no_scipy
     def test_corr_rank(self):
-        from scipy import stats
+        import scipy.stats as stats
 
         # kendall and spearman
         A = tm.makeTimeSeries()

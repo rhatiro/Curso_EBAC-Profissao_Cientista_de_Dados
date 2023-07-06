@@ -1,15 +1,14 @@
-from __future__ import annotations
-
 import pandas._testing as tm
 from pandas.api import types
 from pandas.tests.api.test_api import Base
 
 
 class TestTypes(Base):
+
     allowed = [
-        "is_any_real_numeric_dtype",
         "is_bool",
         "is_bool_dtype",
+        "is_categorical",
         "is_categorical_dtype",
         "is_complex",
         "is_complex_dtype",
@@ -50,13 +49,15 @@ class TestTypes(Base):
         "infer_dtype",
         "is_extension_array_dtype",
     ]
-    deprecated: list[str] = []
+    deprecated = ["is_extension_type"]
     dtypes = ["CategoricalDtype", "DatetimeTZDtype", "PeriodDtype", "IntervalDtype"]
 
     def test_types(self):
+
         self.check(types, self.allowed + self.dtypes + self.deprecated)
 
     def test_deprecated_from_api_types(self):
+
         for t in self.deprecated:
             with tm.assert_produces_warning(FutureWarning):
                 getattr(types, t)(1)

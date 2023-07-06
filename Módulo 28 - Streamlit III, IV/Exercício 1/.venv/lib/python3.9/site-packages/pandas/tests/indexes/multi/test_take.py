@@ -18,6 +18,7 @@ def test_take(idx):
 
 
 def test_take_invalid_kwargs(idx):
+    idx = idx
     indices = [1, 2]
 
     msg = r"take\(\) got an unexpected keyword argument 'foo'"
