@@ -73,15 +73,12 @@ class TestAstype:
             expected = index
             tm.assert_index_equal(result, expected)
 
-    @pytest.mark.parametrize("box", [True, False])
-    def test_categorical_date_roundtrip(self, box):
+    def test_categorical_date_roundtrip(self):
         # astype to categorical and back should preserve date objects
         v = date.today()
 
         obj = Index([v, v])
         assert obj.dtype == object
-        if box:
-            obj = obj.array
 
         cat = obj.astype("category")
 

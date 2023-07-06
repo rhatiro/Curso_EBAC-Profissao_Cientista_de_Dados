@@ -8,6 +8,7 @@ import pandas._testing as tm
 
 
 class TestTimedeltaIndexShift:
+
     # -------------------------------------------------------------
     # TimedeltaIndex.shift is used by __add__/__sub__
 

@@ -1,7 +1,5 @@
 import numpy as np
 
-from pandas._typing import npt
-
 def unstack(
     values: np.ndarray,  # reshape_t[:, :]
     mask: np.ndarray,  # const uint8_t[:]
@@ -12,5 +10,5 @@ def unstack(
     new_mask: np.ndarray,  # uint8_t[:, :]
 ) -> None: ...
 def explode(
-    values: npt.NDArray[np.object_],
-) -> tuple[npt.NDArray[np.object_], npt.NDArray[np.int64]]: ...
+    values: np.ndarray,  # np.ndarray[object]
+) -> tuple[np.ndarray, np.ndarray,]: ...  # np.ndarray[object]  # np.ndarray[np.int64]

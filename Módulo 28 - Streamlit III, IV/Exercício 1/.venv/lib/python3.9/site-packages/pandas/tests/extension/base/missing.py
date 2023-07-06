@@ -55,7 +55,7 @@ class BaseMissingTests(BaseExtensionTests):
 
         # axis = 1
         result = df.dropna(axis="columns")
-        expected = pd.DataFrame(index=pd.RangeIndex(2), columns=pd.Index([]))
+        expected = pd.DataFrame(index=[0, 1])
         self.assert_frame_equal(result, expected)
 
         # multiple

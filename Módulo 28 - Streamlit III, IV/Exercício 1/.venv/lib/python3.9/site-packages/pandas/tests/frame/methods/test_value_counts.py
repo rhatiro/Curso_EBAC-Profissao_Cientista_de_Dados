@@ -1,5 +1,4 @@
 import numpy as np
-import pytest
 
 import pandas as pd
 import pandas._testing as tm
@@ -17,7 +16,6 @@ def test_data_frame_value_counts_unsorted():
         index=pd.MultiIndex.from_arrays(
             [(2, 4, 6), (2, 0, 0)], names=["num_legs", "num_wings"]
         ),
-        name="count",
     )
 
     tm.assert_series_equal(result, expected)
@@ -35,7 +33,6 @@ def test_data_frame_value_counts_ascending():
         index=pd.MultiIndex.from_arrays(
             [(2, 6, 4), (2, 0, 0)], names=["num_legs", "num_wings"]
         ),
-        name="count",
     )
 
     tm.assert_series_equal(result, expected)
@@ -53,7 +50,6 @@ def test_data_frame_value_counts_default():
         index=pd.MultiIndex.from_arrays(
             [(4, 2, 6), (0, 2, 0)], names=["num_legs", "num_wings"]
         ),
-        name="count",
     )
 
     tm.assert_series_equal(result, expected)
@@ -71,7 +67,6 @@ def test_data_frame_value_counts_normalize():
         index=pd.MultiIndex.from_arrays(
             [(4, 2, 6), (0, 2, 0)], names=["num_legs", "num_wings"]
         ),
-        name="proportion",
     )
 
     tm.assert_series_equal(result, expected)
@@ -84,7 +79,6 @@ def test_data_frame_value_counts_single_col_default():
     expected = pd.Series(
         data=[2, 1, 1],
         index=pd.MultiIndex.from_arrays([[4, 2, 6]], names=["num_legs"]),
-        name="count",
     )
 
     tm.assert_series_equal(result, expected)
@@ -94,9 +88,7 @@ def test_data_frame_value_counts_empty():
     df_no_cols = pd.DataFrame()
 
     result = df_no_cols.value_counts()
-    expected = pd.Series(
-        [], dtype=np.int64, name="count", index=np.array([], dtype=np.intp)
-    )
+    expected = pd.Series([], dtype=np.int64)
 
     tm.assert_series_equal(result, expected)
 
@@ -105,9 +97,7 @@ def test_data_frame_value_counts_empty_normalize():
     df_no_cols = pd.DataFrame()
 
     result = df_no_cols.value_counts(normalize=True)
-    expected = pd.Series(
-        [], dtype=np.float64, name="proportion", index=np.array([], dtype=np.intp)
-    )
+    expected = pd.Series([], dtype=np.float64)
 
     tm.assert_series_equal(result, expected)
 
@@ -126,7 +116,6 @@ def test_data_frame_value_counts_dropna_true(nulls_fixture):
         index=pd.MultiIndex.from_arrays(
             [("Beth", "John"), ("Louise", "Smith")], names=["first_name", "middle_name"]
         ),
-        name="count",
     )
 
     tm.assert_series_equal(result, expected)
@@ -152,26 +141,6 @@ def test_data_frame_value_counts_dropna_false(nulls_fixture):
             codes=[[0, 1, 2, 2], [2, 0, 1, 2]],
             names=["first_name", "middle_name"],
         ),
-        name="count",
-    )
-
-    tm.assert_series_equal(result, expected)
-
-
-@pytest.mark.parametrize("columns", (["first_name", "middle_name"], [0, 1]))
-def test_data_frame_value_counts_subset(nulls_fixture, columns):
-    # GH 50829
-    df = pd.DataFrame(
-        {
-            columns[0]: ["John", "Anne", "John", "Beth"],
-            columns[1]: ["Smith", nulls_fixture, nulls_fixture, "Louise"],
-        },
-    )
-    result = df.value_counts(columns[0])
-    expected = pd.Series(
-        data=[2, 1, 1],
-        index=pd.Index(["John", "Anne", "Beth"], name=columns[0]),
-        name="count",
     )
 
     tm.assert_series_equal(result, expected)

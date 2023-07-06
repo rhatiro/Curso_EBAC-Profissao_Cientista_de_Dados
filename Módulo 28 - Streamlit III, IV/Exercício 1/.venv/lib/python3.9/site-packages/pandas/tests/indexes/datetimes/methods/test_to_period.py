@@ -148,9 +148,10 @@ class TestToPeriod:
         with tm.assert_produces_warning(UserWarning):
             # GH#21333 warning that timezone info will be lost
             # filter warning about freq deprecation
+            warnings.filterwarnings("ignore", category=FutureWarning)
 
             result = ts.to_period()[0]
-            expected = ts[0].to_period(ts.freq)
+            expected = ts[0].to_period()
 
         assert result == expected
 
@@ -158,7 +159,7 @@ class TestToPeriod:
 
         with tm.assert_produces_warning(UserWarning):
             # GH#21333 warning that timezone info will be lost
-            result = ts.to_period(ts.freq)
+            result = ts.to_period()
 
         tm.assert_index_equal(result, expected)
 
@@ -167,8 +168,10 @@ class TestToPeriod:
         # GH#22905
         ts = date_range("1/1/2000", "2/1/2000", tz="Etc/GMT-1")
         with tm.assert_produces_warning(UserWarning):
+            warnings.filterwarnings("ignore", category=FutureWarning)
+
             result = ts.to_period()[0]
-            expected = ts[0].to_period(ts.freq)
+            expected = ts[0].to_period()
             assert result == expected
 
     def test_to_period_nofreq(self):

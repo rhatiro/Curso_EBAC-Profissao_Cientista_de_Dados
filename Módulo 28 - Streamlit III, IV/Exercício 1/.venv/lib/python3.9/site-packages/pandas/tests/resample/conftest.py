@@ -159,13 +159,13 @@ def empty_frame_dti(series):
     return DataFrame(index=index)
 
 
-@pytest.fixture
-def series_and_frame(frame_or_series, series, frame):
+@pytest.fixture(params=[Series, DataFrame])
+def series_and_frame(request, series, frame):
     """
     Fixture for parametrization of Series and DataFrame with date_range,
     period_range and timedelta_range indexes
     """
-    if frame_or_series == Series:
+    if request.param == Series:
         return series
-    if frame_or_series == DataFrame:
+    if request.param == DataFrame:
         return frame

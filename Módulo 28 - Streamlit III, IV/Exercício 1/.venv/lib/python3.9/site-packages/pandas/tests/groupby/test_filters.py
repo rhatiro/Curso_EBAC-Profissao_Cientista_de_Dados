@@ -1,5 +1,3 @@
-from string import ascii_lowercase
-
 import numpy as np
 import pytest
 
@@ -111,7 +109,8 @@ def test_filter_condition_raises():
     def raise_if_sum_is_zero(x):
         if x.sum() == 0:
             raise ValueError
-        return x.sum() > 0
+        else:
+            return x.sum() > 0
 
     s = Series([-1, 0, 1, 2])
     grouper = s.apply(lambda x: x % 2)
@@ -172,20 +171,6 @@ def test_filter_nan_is_false():
     tm.assert_series_equal(g_s.filter(f), s[[]])
 
 
-def test_filter_pdna_is_false():
-    # in particular, dont raise in filter trying to call bool(pd.NA)
-    df = DataFrame({"A": np.arange(8), "B": list("aabbbbcc"), "C": np.arange(8)})
-    ser = df["B"]
-    g_df = df.groupby(df["B"])
-    g_s = ser.groupby(ser)
-
-    func = lambda x: pd.NA
-    res = g_df.filter(func)
-    tm.assert_frame_equal(res, df.loc[[]])
-    res = g_s.filter(func)
-    tm.assert_series_equal(res, ser[[]])
-
-
 def test_filter_against_workaround():
     np.random.seed(0)
     # Series of ints
@@ -208,6 +193,8 @@ def test_filter_against_workaround():
     tm.assert_series_equal(new_way.sort_values(), old_way.sort_values())
 
     # Set up DataFrame of ints, floats, strings.
+    from string import ascii_lowercase
+
     letters = np.array(list(ascii_lowercase))
     N = 1000
     random_letters = letters.take(np.random.randint(0, 26, N))
@@ -246,7 +233,7 @@ def test_filter_using_len():
     actual = grouped.filter(lambda x: len(x) > 2)
     expected = DataFrame(
         {"A": np.arange(2, 6), "B": list("bbbb"), "C": np.arange(2, 6)},
-        index=np.arange(2, 6, dtype=np.int64),
+        index=np.arange(2, 6),
     )
     tm.assert_frame_equal(actual, expected)
 
@@ -258,7 +245,7 @@ def test_filter_using_len():
     s = df["B"]
     grouped = s.groupby(s)
     actual = grouped.filter(lambda x: len(x) > 2)
-    expected = Series(4 * ["b"], index=np.arange(2, 6, dtype=np.int64), name="B")
+    expected = Series(4 * ["b"], index=np.arange(2, 6), name="B")
     tm.assert_series_equal(actual, expected)
 
     actual = grouped.filter(lambda x: len(x) > 4)
@@ -369,7 +356,8 @@ def test_filter_and_transform_with_non_unique_int_index():
     tm.assert_series_equal(actual, expected)
 
     actual = grouped_ser.filter(lambda x: len(x) > 1, dropna=False)
-    expected = Series([np.nan, 1, 1, np.nan, 2, np.nan, np.nan, 3], index, name="pid")
+    NA = np.nan
+    expected = Series([NA, 1, 1, NA, 2, NA, NA, 3], index, name="pid")
     # ^ made manually because this can get confusing!
     tm.assert_series_equal(actual, expected)
 
@@ -411,7 +399,8 @@ def test_filter_and_transform_with_multiple_non_unique_int_index():
     tm.assert_series_equal(actual, expected)
 
     actual = grouped_ser.filter(lambda x: len(x) > 1, dropna=False)
-    expected = Series([np.nan, 1, 1, np.nan, 2, np.nan, np.nan, 3], index, name="pid")
+    NA = np.nan
+    expected = Series([NA, 1, 1, NA, 2, NA, NA, 3], index, name="pid")
     # ^ made manually because this can get confusing!
     tm.assert_series_equal(actual, expected)
 
@@ -453,7 +442,8 @@ def test_filter_and_transform_with_non_unique_float_index():
     tm.assert_series_equal(actual, expected)
 
     actual = grouped_ser.filter(lambda x: len(x) > 1, dropna=False)
-    expected = Series([np.nan, 1, 1, np.nan, 2, np.nan, np.nan, 3], index, name="pid")
+    NA = np.nan
+    expected = Series([NA, 1, 1, NA, 2, NA, NA, 3], index, name="pid")
     # ^ made manually because this can get confusing!
     tm.assert_series_equal(actual, expected)
 
@@ -498,7 +488,8 @@ def test_filter_and_transform_with_non_unique_timestamp_index():
     tm.assert_series_equal(actual, expected)
 
     actual = grouped_ser.filter(lambda x: len(x) > 1, dropna=False)
-    expected = Series([np.nan, 1, 1, np.nan, 2, np.nan, np.nan, 3], index, name="pid")
+    NA = np.nan
+    expected = Series([NA, 1, 1, NA, 2, NA, NA, 3], index, name="pid")
     # ^ made manually because this can get confusing!
     tm.assert_series_equal(actual, expected)
 
@@ -540,7 +531,8 @@ def test_filter_and_transform_with_non_unique_string_index():
     tm.assert_series_equal(actual, expected)
 
     actual = grouped_ser.filter(lambda x: len(x) > 1, dropna=False)
-    expected = Series([np.nan, 1, 1, np.nan, 2, np.nan, np.nan, 3], index, name="pid")
+    NA = np.nan
+    expected = Series([NA, 1, 1, NA, 2, NA, NA, 3], index, name="pid")
     # ^ made manually because this can get confusing!
     tm.assert_series_equal(actual, expected)
 

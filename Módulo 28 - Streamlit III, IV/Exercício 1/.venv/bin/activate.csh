@@ -8,7 +8,7 @@ alias deactivate 'test $?_OLD_VIRTUAL_PATH != 0 && setenv PATH "$_OLD_VIRTUAL_PA
 # Unset irrelevant variables.
 deactivate nondestructive
 
-setenv VIRTUAL_ENV "/Users/rhatiro/Dropbox/Cursos/_EM ANDAMENTO/EBAC/Profissão- Cientista de Dados/Cientista de Dados/Módulo 28 - Streamlit III, IV/Exercício 1/Material de Apoio - Exercício Módulo 28/download/.venv"
+setenv VIRTUAL_ENV "/Users/rhatiro/Documents/GitHub/EBAC/Curso_EBAC-Profissao_Cientista_de_Dados/Módulo 28 - Streamlit III, IV/Exercício 1/.venv"
 
 set _OLD_VIRTUAL_PATH="$PATH"
 setenv PATH "$VIRTUAL_ENV/bin:$PATH"

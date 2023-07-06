@@ -69,12 +69,15 @@ def test_isin_empty(empty):
 
 
 def test_diff():
-    ser = pd.Series([1, 2, 3], dtype="category")
+    s = pd.Series([1, 2, 3], dtype="category")
+    with tm.assert_produces_warning(FutureWarning):
+        result = s.diff()
+    expected = pd.Series([np.nan, 1, 1])
+    tm.assert_series_equal(result, expected)
 
-    msg = "Convert to a suitable dtype"
-    with pytest.raises(TypeError, match=msg):
-        ser.diff()
+    expected = expected.to_frame(name="A")
+    df = s.to_frame(name="A")
+    with tm.assert_produces_warning(FutureWarning):
+        result = df.diff()
 
-    df = ser.to_frame(name="A")
-    with pytest.raises(TypeError, match=msg):
-        df.diff()
+    tm.assert_frame_equal(result, expected)
