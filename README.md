@@ -91,7 +91,11 @@
 
 - [x] [Módulo 26 - Algelin](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2026%20-%20Algelin)
 
-- [ ] [Módulo 27 - PCA](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2027%20-%20PCA)
+- [x] [Módulo 27 - PCA](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2027%20-%20PCA)
+
+- [x] [Módulo 28 - Streamlit III, IV](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Modulo%2028%20-%20Streamlit%20III_IV)
+
+- [ ] [Módulo 29 - K-means]()
 
 <details open>
   <summary>
