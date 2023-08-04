@@ -95,7 +95,7 @@
 
 - [x] [Módulo 28 - Streamlit III, IV](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Modulo%2028%20-%20Streamlit%20III_IV)
 
-- [x] [Módulo 29 - K-means]()
+- [x] [Módulo 29 - K-means](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2029%20-%20K-means)
 
 <details open>
   <summary>
