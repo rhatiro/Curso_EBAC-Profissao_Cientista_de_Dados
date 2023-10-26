@@ -97,6 +97,8 @@
 
 - [x] [Módulo 29 - K-means](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2029%20-%20K-means)
 
+- [ ] [Módulo 30 - Hierárquicos / aglomerativos](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2030%20-%20Hiera%CC%81rquicos%20%3A%20aglomerativos)
+
 <details open>
   <summary>
     <h2>Projetos</h2>
