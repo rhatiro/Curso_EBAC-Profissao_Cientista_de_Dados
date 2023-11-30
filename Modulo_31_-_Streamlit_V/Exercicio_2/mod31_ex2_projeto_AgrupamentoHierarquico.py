@@ -213,7 +213,7 @@ def main():
     with st.echo():
         ""
         # Ler o arquivo CSV 'online_shoppers_intention.csv' e armazenar os dados em um DataFrame chamado df
-        df = pd.read_csv('./online_shoppers_intention.csv')
+        df = pd.read_csv('https://raw.githubusercontent.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/main/Modulo_31_-_Streamlit_V/Exercicio_2/online_shoppers_intention.csv')
 
         # Exibir o DataFrame df, mostrando os dados carregados do arquivo CSV
         st.dataframe(df)
