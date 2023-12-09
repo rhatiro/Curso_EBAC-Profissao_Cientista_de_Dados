@@ -99,7 +99,9 @@
 
 - [x] [Módulo 30 - Hierárquicos / aglomerativos](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2030%20-%20Hiera%CC%81rquicos%20%3A%20aglomerativos)
 
-- [ ] [Módulo 31 - Streamlit V](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Modulo_31_-_Streamlit_V)
+- [x] [Módulo 31 - Streamlit V](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Modulo_31_-_Streamlit_V)
+
+- [ ] [Módulo 32 - Probabilidade]()
 
 <details open>
   <summary>
@@ -112,6 +114,9 @@
 - [x] [**Projeto #02** | Previsão de renda](https://github.com/rhatiro/previsao-renda)
   > [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&logo=Jupyter&logoColor=white)](https://github.com/rhatiro/previsao-renda/blob/main/ebac-projeto02-previsao_renda-roberto_hatiro.ipynb)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=Streamlit&logoColor=white)](https://rhatiro-ebac-projeto02-previsao-renda.streamlit.app/)
+
+- [x] [**Projeto** | Agrupamento Hierárquico](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Modulo_31_-_Streamlit_V/Exercicio_2)
+  > [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=Streamlit&logoColor=white)](https://rhatiro--ebac--projeto-de-agrupamento-hierarquico.streamlit.app/)
 
 </details>
 
@@ -140,7 +145,7 @@
   
 - #### [Módulo 24:](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2024%20-%20Combinac%CC%A7a%CC%83o%20de%20modelos%20II)
 
-  <details><summary>Timeline</summary>
+  <details open><summary>Timeline</summary>
   
   - 1984:
     > - [CART](https://www.google.com/search?q=Classification+And+Regression+Trees+By+Leo+Breiman,+Jerome+H.+Friedman,+Richard+A.+Olshen,+Charles+J.+Stone&sxsrf=APq-WBsB-F7EMQLKLS-MDIV1-aQJOT_NXQ:1644165838636&ei=zvr_Yf6CJuKSxc8PlOiR-Ac&ved=0ahUKEwj-oY2Gw-v1AhViS)
@@ -175,7 +180,7 @@
 
 - #### [Módulo 25:](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2025%20-%20Ca%CC%81lculo)
 
-  <details><summary>Referências</summary>
+  <details open><summary>Referências</summary>
     
   - [Construindo gráficos 3d com matplotlib](https://www.youtube.com/watch?v=gqoLLGgbeAE)
   - [Construindo animações com o matplotlib](https://www.youtube.com/watch?v=7RgoHTMbp4A)
@@ -188,10 +193,18 @@
   
   </details>
 
-- #### [Módulo 26:]()
+- #### [Módulo 26:](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2026%20-%20Algelin)
 
   - [Playlist sobre álgebra linear do 3blue1brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
   - [Livros sobre álgebra linear](https://math.stackexchange.com/questions/2377980/book-recommendations-for-linear-algebra)
+
+- #### [Módulo 32:]()
+
+  - [Documentação do scipy.stats.t](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.t.html)
+  - [Documentação do scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html)
+  - Indicações de leitura:
+    - ["O andar do bêbado: Como o acaso determina nossas vidas" de Leonard Milodinow](https://books.google.com.br/books/about/O_andar_do_b%C3%AAbado.html?id=WydVzQEACAAJ&redir_esc=y)
+    - ["Estatística Básica" de P. A. Morettin e W. O. Bussab.](https://www.google.com.br/books/edition/ESTAT%C3%8DSTICA_B%C3%81SICA/vDhnDwAAQBAJ?hl=pt-BR&gbpv=0)
 
 </details>
 
