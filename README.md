@@ -101,7 +101,9 @@
 
 - [x] [Módulo 31 - Streamlit V](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Modulo_31_-_Streamlit_V)
 
-- [ ] [Módulo 32 - Probabilidade]()
+- [x] [Módulo 32 - Probabilidade](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2032%20-%20Probabilidade)
+
+- [ ] [Módulo 33 - Inferência](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2033%20-%20Infere%CC%82ncia)
 
 <details open>
   <summary>
@@ -198,13 +200,18 @@
   - [Playlist sobre álgebra linear do 3blue1brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
   - [Livros sobre álgebra linear](https://math.stackexchange.com/questions/2377980/book-recommendations-for-linear-algebra)
 
-- #### [Módulo 32:]()
+- #### [Módulo 32:](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2032%20-%20Probabilidade)
 
   - [Documentação do scipy.stats.t](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.t.html)
   - [Documentação do scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html)
   - Indicações de leitura:
     - ["O andar do bêbado: Como o acaso determina nossas vidas" de Leonard Milodinow](https://books.google.com.br/books/about/O_andar_do_b%C3%AAbado.html?id=WydVzQEACAAJ&redir_esc=y)
     - ["Estatística Básica" de P. A. Morettin e W. O. Bussab.](https://www.google.com.br/books/edition/ESTAT%C3%8DSTICA_B%C3%81SICA/vDhnDwAAQBAJ?hl=pt-BR&gbpv=0)
+
+- #### [Módulo 33:](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2033%20-%20Infere%CC%82ncia)
+
+  - [Teste de Hipóteses](https://www.inf.ufsc.br/~andre.zibetti/probabilidade/teste-de-hipoteses.html)
+  - [Teste de Hipótese: uma ferramenta poderosa para tomadas de decisão baseadas em evidências | by Edson Junior | Data Hackers | Medium](https://medium.com/data-hackers/teste-de-hip%C3%B3tese-uma-ferramenta-poderosa-para-tomadas-de-decis%C3%A3o-baseadas-em-evid%C3%AAncias-6e260d3067ba)
 
 </details>
 
