@@ -215,6 +215,17 @@
   - [Teste de Hipóteses](https://www.inf.ufsc.br/~andre.zibetti/probabilidade/teste-de-hipoteses.html)
   - [Teste de Hipótese: uma ferramenta poderosa para tomadas de decisão baseadas em evidências | by Edson Junior | Data Hackers | Medium](https://medium.com/data-hackers/teste-de-hip%C3%B3tese-uma-ferramenta-poderosa-para-tomadas-de-decis%C3%A3o-baseadas-em-evid%C3%AAncias-6e260d3067ba)
 
+- #### [Módulo 34:](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2034%20-%20Regressa%CC%83o%20III)
+  - ["Applied Linear Statistical Models" de Michael H Kutner, Christopher J. Nachtsheim, John Neter e William Li. Ed. McGraw-Hill Irwin, 2005.](https://users.stat.ufl.edu/~winner/sta4211/ALSM_5Ed_Kutner.pdf)
+  - Regressão segmentada
+    - [Um artigo com uso de regressão segmentada](https://www.scielo.br/j/sa/a/J3mDJfyhJG9VMbfYWGGXwmt/?lang=pt&format=pdf)
+    - [Esta referência explica regressão segmentada em R.](http://www.leg.ufpr.br/~paulojus/CE092-2015/segmentada.html)
+  - Lowess
+    - [Wikipedia](https://en.wikipedia.org/wiki/Local_regression)
+    - [Towards Data Science](https://towardsdatascience.com/lowess-regression-in-python-how-to-discover-clear-patterns-in-your-data-f26e523d7a35)
+    - [Help do statsmodels](https://www.statsmodels.org/devel/generated/statsmodels.nonparametric.smoothers_lowess.lowess.html)
+    - [Cleveland, W.S. (1979) “Robust Locally Weighted Regression and Smoothing Scatterplots”. Journal of the American Statistical Association 74 (368): 829-836.](https://www.semanticscholar.org/paper/Robust-Locally-Weighted-Regression-and-Smoothing-Cleveland/30e7e25061b7ccd9a625548dd6836afcff85043b)
+
 </details>
 
 </details>
