@@ -105,7 +105,7 @@
 
 - [x] [Módulo 33 - Inferência](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2033%20-%20Infere%CC%82ncia)
 
-- [ ] [Módulo 34 - Regressão III](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2034%20-%20Regressa%CC%83o%20III)
+- [x] [Módulo 34 - Regressão III](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2034%20-%20Regressa%CC%83o%20III)
 
 <details open>
   <summary>
