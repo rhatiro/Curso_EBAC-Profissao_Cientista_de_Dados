@@ -107,6 +107,8 @@
 
 - [x] [Módulo 34 - Regressão III](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2034%20-%20Regressa%CC%83o%20III)
 
+- [x] [Módulo 35 - Regressão IV](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2035%20-%20Regressa%CC%83o%20IV)
+
 <details open>
   <summary>
     <h2>Projetos</h2>
@@ -225,6 +227,15 @@
     - [Towards Data Science](https://towardsdatascience.com/lowess-regression-in-python-how-to-discover-clear-patterns-in-your-data-f26e523d7a35)
     - [Help do statsmodels](https://www.statsmodels.org/devel/generated/statsmodels.nonparametric.smoothers_lowess.lowess.html)
     - [Cleveland, W.S. (1979) “Robust Locally Weighted Regression and Smoothing Scatterplots”. Journal of the American Statistical Association 74 (368): 829-836.](https://www.semanticscholar.org/paper/Robust-Locally-Weighted-Regression-and-Smoothing-Cleveland/30e7e25061b7ccd9a625548dd6836afcff85043b)
+   
+- #### [Módulo 35:](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2035%20-%20Regressa%CC%83o%20IV)
+  - ["Applied Linear Statistical Models" de Michael H Kutner, Christopher J. Nachtsheim, John Neter e William Li. Ed. McGraw-Hill Irwin, 2005.](https://users.stat.ufl.edu/~winner/sta4211/ALSM_5Ed_Kutner.pdf)
+  - [Supervisory Guidance on Model Risk Management](https://www.occ.gov/news-issuances/bulletins/2011/bulletin-2011-12a.pdf)
+  - Associação entre variáveis qualitativas:
+    - Teste qui-quadrado [Wikipedia](https://pt.wikipedia.org/wiki/Teste_qui-quadrado_de_Pearson)
+    - V de Cramer [Wikipedia](https://en.wikipedia.org/wiki/Cram%C3%A9r%27s_V)
+    - V de Cramer [Journal of the Korean Statistical Society](https://www.sciencedirect.com/science/article/abs/pii/S1226319212001032)
+    - V de Cramer no [Stack Overflow](https://stackoverflow.com/questions/20892799/using-pandas-calculate-cram%C3%A9rs-coefficient-matrix)
 
 </details>
 
