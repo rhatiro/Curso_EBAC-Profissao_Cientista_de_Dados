@@ -109,6 +109,8 @@
 
 - [x] [Módulo 35 - Regressão IV](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2035%20-%20Regressa%CC%83o%20IV)
 
+- [ ] [Módulo 36 - Descritiva IV - Visualização de dados categorizados](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2036%20-%20Descritiva%20IV%20-%20Visualizac%CC%A7a%CC%83o%20de%20dados%20categorizados)
+
 <details open>
   <summary>
     <h2>Projetos</h2>
