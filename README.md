@@ -109,7 +109,7 @@
 
 - [x] [Módulo 35 - Regressão IV](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2035%20-%20Regressa%CC%83o%20IV)
 
-- [ ] [Módulo 36 - Descritiva IV - Visualização de dados categorizados](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2036%20-%20Descritiva%20IV%20-%20Visualizac%CC%A7a%CC%83o%20de%20dados%20categorizados)
+- [x] [Módulo 36 - Descritiva IV - Visualização de dados categorizados](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2036%20-%20Descritiva%20IV%20-%20Visualizac%CC%A7a%CC%83o%20de%20dados%20categorizados)
 
 <details open>
   <summary>
@@ -238,6 +238,9 @@
     - V de Cramer [Wikipedia](https://en.wikipedia.org/wiki/Cram%C3%A9r%27s_V)
     - V de Cramer [Journal of the Korean Statistical Society](https://www.sciencedirect.com/science/article/abs/pii/S1226319212001032)
     - V de Cramer no [Stack Overflow](https://stackoverflow.com/questions/20892799/using-pandas-calculate-cram%C3%A9rs-coefficient-matrix)
+
+- #### [Módulo 36:](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2036%20-%20Descritiva%20IV%20-%20Visualizac%CC%A7a%CC%83o%20de%20dados%20categorizados)
+  - [**Intelligent Credit Scoring**: Building and Implementing Better Credit Risk Scorecards, 2nd Edition, por Naeem Siddiqi, editora Wiley](https://www.wiley.com/en-us/Intelligent+Credit+Scoring%3A+Building+and+Implementing+Better+Credit+Risk+Scorecards%2C+2nd+Edition-p-9781119279150)
 
 </details>
 
