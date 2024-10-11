@@ -111,6 +111,8 @@
 
 - [x] [Módulo 36 - Descritiva IV - Visualização de dados categorizados](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2036%20-%20Descritiva%20IV%20-%20Visualizac%CC%A7a%CC%83o%20de%20dados%20categorizados)
 
+- [ ] [Módulo 37 - Regressão Logística II](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2037%20-%20Regressa%CC%83o%20Logi%CC%81stica%20II)
+
 <details open>
   <summary>
     <h2>Projetos</h2>
